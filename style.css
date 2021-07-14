@@ -38,7 +38,7 @@ img{
     margin: auto;
 }
 
-/* basic css end */
+/* css end */
 
 /* navbar section start */
 nav{
@@ -160,6 +160,7 @@ footer .container{
     align-items: center;
     height: 300px;
    justify-content: center;
+   padding-top: 40px;
 }
 
 
